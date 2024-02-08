@@ -7,7 +7,7 @@ public class PROYECTO {
     private static final String[] APELLIDOS = {"Garcia", "Martinez", "Lopez", "Hernandez", "Gonzalez", "Perez", "Sanchez", "Ramirez", "Torres", "Flores"};
 
     public static void main(String[] args) {
-        String[][] datosEntrada = new String[1000][3];
+        String[][] datosEntrada = new String[100][3];
         String[][] datosSalidaQuimica = new String[80][7];
         String[][] datosSalidaFisiorehabilitacion = new String[200][7];
         String[][] datosSalidaMedicina = new String[80][7];
